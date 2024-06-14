@@ -1,0 +1,38 @@
+    <!DOCTYPE html>
+    <html lang="pt-br">
+      <head>
+        <meta charset="UTF-8">
+        <meta name=viewport" content="width=device-width-initial-scale=1,0">
+        <title>Allícia de Lima 2ºB</title>
+        <link rel="shortcut icon" href="cavalo.png" "type=image/x-icon">
+               <style>
+                body {
+                        font-family:cursive;
+                        color:purple;
+                        font-size:30px;
+                        background-color:purple;
+}
+   </style>
+  </head>
+  <body>
+   <h1>Cavalos Manga Larga Marchador</h1> 
+  <ul type="circle">
+    <li> A raça Mangalarga Marchador é tipicamente brasileira e surgiu há cerca de 200 anos na Comarca do Rio das Mortes, no Sul de Minas, através do cruzamento de cavalos da raça Alter – trazidos da Coudelaria de Alter do Chão, em Portugal – com outros cavalos selecionados pelos criadores daquela região mineira. <br>
+    <li>A base de formação dos cavalos Alter é a raça espanhola Andaluza, cuja origem étnica vem de cavalos nativos da Península Ibérica, germânicos e berberes. Os cruzamentos dessas raças deram origem a animais de porte elegante, beleza plástica, temperamento dócil e próprios para a montaria. <br>
+    <li>Os primeiros exemplares da raça Alter chegaram ao Brasil em 1808, com D. João VI, que se transferiu para a Colônia com a família real. Os cavalos dessa raça eram muito valorizados em Portugal e a família real investia em coudelarias (haras) para o aprimoramento da raça. A Coudelaria de Alter foi criada em 1748 por D. João V e viveu momentos de glória durante o século XVIII, formando animais bastante procurados por príncipes e nobres europeus para as atividades de lazer e serviço. <br>
+    <li>Minas Gerais já se destacava como centro criador de equinos desde o século XVIII e a chegada dos cavalos da raça Alter veio aprimorar ainda mais seus criatórios. A Comarca do Rio das Mortes tinha um potencial de ouro muito baixo, mas chamou a atenção dos colonizadores por causa das suas boas condições para a criação dos animais. Havia água em abundância e a vegetação era constituída de matas, capões e ervas pardacentas, adequadas para a produção de forragem.<br>
+    <li>O Mangalarga Marchador teve como berço a fazenda Campo Alegre, no Sul de Minas. Ela pertencia a Gabriel Francisco Junqueira, o Barão de Alfenas, a quem é atribuída a responsabilidade pela formação da raça. A fazenda era uma herança de seu pai, João Francisco Junqueira. Outro fazendeiro importante na história do Mangalarga Marchador foi José Frausino Junqueira, sobrinho de Gabriel Junqueira. Exímio caçador de veados, José Frausino aprendeu a valorizar os cavalos marchadores por serem resistentes e ágeis para transportá-lo em suas longas jornadas.<br>  
+  <img src="img.jpeg" alt="icon.png"
+      <ol type="I" start="3">
+        <li> marrom
+        <li> azul
+        <li> preto
+        <h1>links e âncoras</h1>
+        <ul type= "circle">
+        <li>Link do site</li>
+    </ol>
+    <a href="https://pt.wikipedia.org/wiki/Manga-larga_marchador">Visite o site </a>
+    <ul type= "circle">
+        <li>Link do vídeo</li>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/UsKilmSXbMM?si=Q7sdgH35_PbvwKSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</html>
